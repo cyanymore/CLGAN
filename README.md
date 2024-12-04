@@ -20,11 +20,11 @@ python test.py --dataroot [dataset root] --name [experiment_name] --phase test
 
 ## Colorization results
 ### KAIST dataset
-![KAIST](img/KAIST.png)
+![KAIST](imgs/KAIST.png)
 
 
 ### LLVIP dataset
-![LLVIP](img/LLVIP.png)
+![LLVIP](imgs/LLVIP.png)
 
 
 ## Acknowledgments
