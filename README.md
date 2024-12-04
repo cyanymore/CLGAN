@@ -8,6 +8,9 @@ Combining Generative Adversarial Network and Contrastive Learning for Infrared I
 - dominate
 - visdom
 
+## Dataset
+We provide the [KAIST](https://github.com/SoonminHwang/rgbt-ped-detection) dataset and the [LLVIP](https://github.com/bupt-ai-cz/LLVIP) dataset link.
+
 ## Trian
 ```
 python train.py --dataroot [dataset root] --name [experiment_name] --phase train 
