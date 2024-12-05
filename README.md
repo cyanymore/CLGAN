@@ -32,3 +32,7 @@ python test.py --dataroot [dataset root] --name [experiment_name] --phase test
 
 ## Acknowledgments
 This code heavily borrowes from [DCLGAN](https://github.com/JunlinHan/DCLGAN).
+
+## Note
+The full version of the paper will be uploaded after acceptance.
+
